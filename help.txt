@@ -1,0 +1,2 @@
+Zak³adanie nowego env w Anaconda Prompt:
+conda env -f nazwa_pliku.yml
